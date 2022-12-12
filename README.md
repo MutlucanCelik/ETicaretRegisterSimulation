@@ -1,6 +1,7 @@
 Google Servisi projeye dahil ettik (simülasyon)
 
 ![resim7](https://user-images.githubusercontent.com/108885771/207146290-5a7c9b4d-acd7-423f-bd92-42d8fc165c44.png)
+
 ![resim8](https://user-images.githubusercontent.com/108885771/207146294-4402dc18-3657-4db1-bf63-136c84ab238e.png)
 
 
