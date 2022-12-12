@@ -1,6 +1,6 @@
 package eTicaretRegister.core.abstracts;
 
-import eTicaretRegister.registerWithGoogleAccount.GoogleUserInformation;
+import eTicaretRegister.jRegisterWithGoogleAccount.GoogleUserInformation;
 
 public interface GoogleUserInformationService {
 	

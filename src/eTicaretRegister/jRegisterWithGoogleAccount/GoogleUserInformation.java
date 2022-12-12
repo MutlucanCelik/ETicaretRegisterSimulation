@@ -1,4 +1,4 @@
-package eTicaretRegister.registerWithGoogleAccount;
+package eTicaretRegister.jRegisterWithGoogleAccount;
 
 public class GoogleUserInformation {
 	
